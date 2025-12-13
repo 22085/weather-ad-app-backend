@@ -1,0 +1,7 @@
+{
+  "app_version": "1.0.1",  # 最新版本号
+  "apk_url": "https://github.com/22085/weather-ad-app-backend/releases/download/v1.0.1/weather-ad-app-v1.0.1.apk",  # 安卓安装包地址
+  "wx_miniprogram_url": "https://mp.weixin.qq.com/a/~你的小程序路径",  # 小程序更新路径
+  "update_desc": "1. 新增广告位；2. 优化天气接口稳定性；3. 修复已知bug",
+  "force_update": false  # 是否强制更新
+}
