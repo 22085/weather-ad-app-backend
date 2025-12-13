@@ -1,0 +1,16 @@
+{
+  "weather": {
+    "hefeng_key": "YOUR_HEFENG_KEY",
+    "moji_key": "YOUR_MOJI_KEY",
+    "caiyun_token": "YOUR_CAIYUN_TOKEN",
+    "seniverse_key": "YOUR_SENIVERSE_KEY"
+  },
+  "ad": {
+    "splash_ad_id": "YOUR_SPLASH_AD_ID",
+    "banner_ad_id": "YOUR_BANNER_AD_ID",
+    "flow_ad_id": "YOUR_FLOW_AD_ID",
+    "interstitial_ad_id": "YOUR_INTERSTITIAL_AD_ID",
+    "reward_video_ad_id": "YOUR_REWARD_VIDEO_AD_ID"
+  },
+  "config_version": 1  # 配置版本号，修改配置时递增
+}
