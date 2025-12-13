@@ -12,5 +12,5 @@
     "interstitial_ad_id": "YOUR_INTERSTITIAL_AD_ID",
     "reward_video_ad_id": "YOUR_REWARD_VIDEO_AD_ID"
   },
-  "config_version": 1  # 配置版本号，修改配置时递增
+  "config_version": 1  
 }
