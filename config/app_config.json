@@ -1,16 +1,36 @@
 {
   "weather": {
-    "hefeng_key": "YOUR_HEFENG_KEY",
-    "moji_key": "YOUR_MOJI_KEY",
+    "hefeng_api_host": "mn7fbwdk6b.yun.qweatherapi.com",
+    "hefeng_key": "1a14014e6daa4d5db96e1749350da573",
+    "moji_pro_appkey": "204239654",
+    "moji_pro_appsecret": "WJnzEMqiesGLmGhxDzZklmWRWVYp41VW",
+    "moji_pro_appcode": "81410a22487f4f70b1c2bbd4566e312f",
+    "moji_pro_now_url": "https://aliv8.data.moji.com/whapi/json/aliweather/condition",
+    "moji_pro_forecast15d_url": "https://aliv8.data.moji.com/whapi/json/aliweather/forecast15days",
+    "moji_pro_forecast24h_url": "https://aliv8.data.moji.com/whapi/json/aliweather/forecast24hours",
+    "moji_pro_alert_url": "https://aliv8.data.moji.com/whapi/json/aliweather/alert",
+    "moji_pro_life_index_url": "https://aliv8.data.moji.com/whapi/json/aliweather/index",
+    "moji_pro_short_forecast_url": "https://aliv8.data.moji.com/whapi/json/aliweather/shortforecast",
+    "moji_pro_aqi_url": "https://aliv8.data.moji.com/whapi/json/aliweather/aqi",
+    "moji_pro_limit_url": "https://aliv8.data.moji.com/whapi/json/aliweather/limit",
+    "moji_pro_aqi_forecast5d_url": "https://aliv8.data.moji.com/whapi/json/aliweather/aqiforecast5days",
     "caiyun_token": "YOUR_CAIYUN_TOKEN",
-    "seniverse_key": "YOUR_SENIVERSE_KEY"
+    "seniverse_trial_uid": "PfpaoM1cjLTV1St3m",
+    "seniverse_trial_key": "ScMgUIgT7EWyIi3Li",
+    "seniverse_trial_expire": "2025-12-26",
+    "seniverse_free_uid": "PC7EcgQm4VQ0h5z4D",
+    "seniverse_free_key": "S9AqXU-r59aXDCqGD",
+    "seniverse_free_expire": "",
+    "huafeng_appkey": "p355IFonUwgZS0AH1QAxAvtGiBvQFsJO",
+    "huafeng_secret": "YOUR_HUAFENG_SECRET",
+    "huafeng_geo_url": "https://api.weather.com.cn/data/cityinfo/"
   },
   "ad": {
-    "splash_ad_id": "YOUR_SPLASH_AD_ID",
     "banner_ad_id": "YOUR_BANNER_AD_ID",
-    "flow_ad_id": "YOUR_FLOW_AD_ID",
+    "feed_ad_id": "YOUR_FEED_AD_ID",
     "interstitial_ad_id": "YOUR_INTERSTITIAL_AD_ID",
-    "reward_video_ad_id": "YOUR_REWARD_VIDEO_AD_ID"
+    "reward_video_ad_id": "YOUR_REWARD_VIDEO_AD_ID",
+    "draw_video_ad_id": "YOUR_DRAW_VIDEO_AD_ID"
   },
-  "config_version": 1  
+  "config_version": 20
 }
