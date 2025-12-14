@@ -27,10 +27,10 @@
   },
   "ad": {
     "banner_ad_id": "YOUR_BANNER_AD_ID",
-    "feed_ad_id": "YOUR_FEED_AD_ID",
-    "interstitial_ad_id": "YOUR_INTERSTITIAL_AD_ID",
-    "reward_video_ad_id": "YOUR_REWARD_VIDEO_AD_ID",
-    "draw_video_ad_id": "YOUR_DRAW_VIDEO_AD_ID"
+    "feed_ad_id": "1215491994",
+    "interstitial_ad_id": "1607371119",
+    "reward_video_ad_id": "1922410879",
+    "draw_video_ad_id": "1277931103"
   },
   "config_version": 20
 }
